@@ -1,0 +1,26 @@
+_repo: Tizian_59697
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Knackfuss, H. (Hermann)
+    aliases:
+    - Knackfuß, Hermann
+    - Knackfuss, Hermann
+    birthdate: 1848
+    deathdate: 1915
+    gutenberg_agent_id: '37412'
+    url: http://www.gutenberg.org/2009/agents/37412
+    wikipedia: https://de.wikipedia.org/wiki/Hermann_Knackfu%C3%9F
+description: ''
+gutenberg_issued: '2019-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59697'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Tizian
+url: http://www.gutenberg.org/ebooks/59697
